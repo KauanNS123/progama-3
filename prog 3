@@ -1,0 +1,6 @@
+valor = 300
+quantidade = 50
+
+resultado = valor * quantidade
+
+print("valor vezes quantidade e", resultado)
